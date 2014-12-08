@@ -1,0 +1,6 @@
+db:
+  name: "ivirus"
+  host: "localhost"
+  user: "ivirus"
+  password: "l33ttlecr0b3s"
+  driver: "mysql"
